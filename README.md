@@ -32,3 +32,12 @@ Configure VLANs and allow communication between VLANs using Router-on-a-Stick.
 - Router-on-a-Stick
 - IP addressing
 - Network troubleshooting
+## Screenshots
+
+### Network Topology
+
+![Topology](topology.png)
+
+### Connectivity Test
+
+![Ping Test](ping-test.png)
